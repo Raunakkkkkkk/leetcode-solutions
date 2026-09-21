@@ -11,10 +11,12 @@ A collection of my LeetCode Data Structures and Algorithms solutions in C++. Upd
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunakhttps/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/raunakhttps/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunakhttps/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/raunakhttps/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of my LeetCode Data Structures and Algorithms solutions in C++. Upd
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/raunakhttps/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/raunakhttps/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
