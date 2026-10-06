@@ -41,6 +41,7 @@ A collection of my LeetCode Data Structures and Algorithms solutions in C++. Upd
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/raunakhttps/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raunakhttps/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/raunakhttps/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raunakhttps/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -53,4 +54,8 @@ A collection of my LeetCode Data Structures and Algorithms solutions in C++. Upd
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/raunakhttps/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/raunakhttps/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
